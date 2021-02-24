@@ -14,7 +14,7 @@ by Johns Hopkins University
     - [x] Lecture 2: Relevant History of HTML
     - [x] Lecture 3: Anatomy of an HTML Tag
     - [x] Lecture 4: Basic HTML Document Structure
-    - [ ] Lecture 5: HTML Content Models
+    - [x] Lecture 5: HTML Content Models
   - [ ] Essential HTML5 Tags
   - [ ] Introduction to CSS3
 
