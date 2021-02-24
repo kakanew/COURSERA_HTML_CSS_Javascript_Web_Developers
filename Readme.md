@@ -4,24 +4,23 @@
 
 by Johns Hopkins University
 
-- [x] **[Introduction to HTML5](https://github.com/kakanew/COURSERA_HTML_CSS_Javascript_Web_Developers/tree/master/Week_1_Introduction%20to%20HTML5)**
-
-  - [x] ###### Welcome to HTML, CSS, and Javascript for Web Developers!
-
-  - [x] Development Environment Setup
-  - [x] [HTML Basics](https://github.com/kakanew/COURSERA_HTML_CSS_Javascript_Web_Developers/tree/master/Week_1_Introduction%20to%20HTML5/HTML_Basics)
+- [x] [**Introduction to HTML5**](https://github.com/kakanew/COURSERA_HTML_CSS_Javascript_Web_Developers/tree/master/Week_1_Introduction%20to%20HTML5)
+- [x] Welcome to HTML, CSS, and Javascript for Web Developers!
+  
+- [x] Development Environment Setup
+  - [x] [HTML Basics](https://github.com/kakanew/COURSERA_HTML_CSS_Javascript_Web_Developers/tree/master/Week_1_Introduction%20to%20HTML5/1_HTML_Basics)
     - [x] Lecture 1: What is HTML?
-    - [x] Lecture 2: Relevant History of HTML
+    - [x] [Lecture 2: Relevant History of HTML](https://github.com/kakanew/COURSERA_HTML_CSS_Javascript_Web_Developers/tree/master/Week_1_Introduction%20to%20HTML5/1_HTML_Basics/Lecture_2)
     - [x] Lecture 3: Anatomy of an HTML Tag
-    - [x] [Lecture 4: Basic HTML Document Structure](https://github.com/kakanew/COURSERA_HTML_CSS_Javascript_Web_Developers/tree/master/Week_1_Introduction%20to%20HTML5/HTML_Basics/Lecture_4)
-    - [x] [Lecture 5: HTML Content Models](https://github.com/kakanew/COURSERA_HTML_CSS_Javascript_Web_Developers/tree/master/Week_1_Introduction%20to%20HTML5/HTML_Basics/Lecture_5)
-  - [x] Essential HTML5 Tags
-    - [x] Lecture 6: Heading Elements (and some new HTML5 semantic comments)
-    - [x] Lecture 7: Lists
-    - [x] Lecture 8: HTML Character Entity References
-    - [x] Lecture 9: Creating Links
-    - [x] Lecture 10: Displaying Images
-
+    - [x] [Lecture 4: Basic HTML Document Structure](https://github.com/kakanew/COURSERA_HTML_CSS_Javascript_Web_Developers/tree/master/Week_1_Introduction%20to%20HTML5/1_HTML_Basics/Lecture_4)
+    - [x] [Lecture 5: HTML Content Models](https://github.com/kakanew/COURSERA_HTML_CSS_Javascript_Web_Developers/tree/master/Week_1_Introduction%20to%20HTML5/1_HTML_Basics/Lecture_5)
+  - [x] [Essential HTML5 Tags](https://github.com/kakanew/COURSERA_HTML_CSS_Javascript_Web_Developers/tree/master/Week_1_Introduction%20to%20HTML5/2_Essential_HTML5_Tags)
+    - [x] [Lecture 6: Heading Elements (and some new HTML5 semantic comments)](https://github.com/kakanew/COURSERA_HTML_CSS_Javascript_Web_Developers/tree/master/Week_1_Introduction%20to%20HTML5/2_Essential_HTML5_Tags/Lecture_06)
+    - [x] [Lecture 7: Lists](https://github.com/kakanew/COURSERA_HTML_CSS_Javascript_Web_Developers/tree/master/Week_1_Introduction%20to%20HTML5/2_Essential_HTML5_Tags/Lecture_07)
+    - [x] [Lecture 8: HTML Character Entity References](https://github.com/kakanew/COURSERA_HTML_CSS_Javascript_Web_Developers/tree/master/Week_1_Introduction%20to%20HTML5/2_Essential_HTML5_Tags/Lecture_08)
+    - [x] [Lecture 9: Creating Links](https://github.com/kakanew/COURSERA_HTML_CSS_Javascript_Web_Developers/tree/master/Week_1_Introduction%20to%20HTML5/2_Essential_HTML5_Tags/Lecture_09)
+    - [x] [Lecture 10: Displaying Images](https://github.com/kakanew/COURSERA_HTML_CSS_Javascript_Web_Developers/tree/master/Week_1_Introduction%20to%20HTML5/2_Essential_HTML5_Tags/Lecture_10)
+  
 - [ ] **Introduction to CSS3**
 
   - [ ]  Cascading Style Sheets Basics
